@@ -1,0 +1,5 @@
+*.pfx
+bin/
+obj/
+*.suo
+*.user
