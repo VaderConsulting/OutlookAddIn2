@@ -17,6 +17,10 @@ MailInEvent is a Visual Studio 2008 VSTO Outlook 2007 add-in that handles `Appli
 
 Open `OutlookHandler.sln` in Visual Studio 2008 with VSTO and Outlook 2007. The ClickOnce manifest is signed with `OutlookAddIn2_TemporaryKey.pfx` (gitignored). Generate a new test cert if you need to build.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `OutlookAddIn2`). Assembly title OutlookAddIn2, copyright 2008. No third-party libraries in the tree.
