@@ -1,6 +1,6 @@
 # OutlookAddIn2
 
-MailInEvent is a Visual Studio 2008 VSTO Outlook 2007 add-in that handles `Application.NewMail`. On a new message it reads the Inbox item, then shows a message box with the sender address and a subject line that includes the sender name. It is Dave Robinson's working copy from Historical Dev, published so the mail-event experiment can be opened from GitHub.
+MailInEvent is a Visual Studio 2008 VSTO Outlook 2007 add-in that handles `Application.NewMail`. On a new message it reads the Inbox item, then shows a message box with the sender address and a subject line that includes the sender name. It is my working copy from Historical Dev, published so the mail-event experiment can be opened from GitHub.
 
 **Source last updated:** 2008-02-26  
 **Language:** VB.NET  
